@@ -1,0 +1,32 @@
+.photo{
+    background-image: url("../photoes/two.jpeg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    height: 220px;
+}
+p{
+    color: white;
+    padding-top: 30px;
+    text-align: center;
+}
+.one,.two,.three{
+    display: flex;
+    justify-content: center;
+    align-content: center;
+    align-items: center;
+    padding-top: 20px;
+    color: black;
+}
+.seconddiv{
+    background-color: rgb(19, 19, 44);
+    height: 100px;
+    margin-top: 30px;
+    color: white;
+}
+.seconddiv,h4{
+   text-align: center;
+}
+Card.Img{
+    background-image: url("../photoes/two.jpeg"); 
+}
